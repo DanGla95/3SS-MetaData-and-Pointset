@@ -74,4 +74,4 @@ def generate_metadata(excel_file_path):
         print(f"Error: {e}")
 
 # Replace 'your_excel_file.xlsx' with the path to your Excel file
-generate_metadata('C:/Users/daniel.glazier/OneDrive - ExcelRedstone/Documents/3ssGPT/site_model_data.xlsx')
+generate_metadata('')
